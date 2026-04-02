@@ -1,0 +1,9 @@
+{
+	"name": "prod-adf-training",
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "511b5246-d523-4049-8343-ea629c9c3af7",
+		"tenantId": "ad636efd-7d05-42bd-b770-b1eb3b31702c"
+	}
+}
